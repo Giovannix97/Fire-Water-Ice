@@ -22,7 +22,7 @@ Enjoy it and don't look at bugs &#128027;  &#128513;.
 # Usage and dependencies
 To run this game you just need to run the following command
 ``` 
-python main_guy.py
+python game_gui.py
 
 ```
 If you have problems, try to change your current directory with
